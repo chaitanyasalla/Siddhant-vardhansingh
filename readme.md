@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/siddhant-vardhan-singh-98288619b/"><img src="https://img.icons8.com/fluent/100/000000/linkedin.png"/></a> 
 <a href="mailto:19bec088@smvdu.ac.in"><img src="https://img.icons8.com/color/100/000000/gmail--v2.png"/></a> 
 <a href="https://t.me/siddhant_vardhan_singh"><img src="https://img.icons8.com/color/100/000000/telegram-app--v2.png"/></a> 
-<a href="https://www.instagram.com/siddhant_vardhan_singh/"><img src="https://img.icons8.com/bubbles/103/000000/instagram-new.png"/></a> 
+<a href="https://www.instagram.com/siddhant_vardhan_singh/"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png"/></a> 
 
 ## Profiles
 
