@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning
 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>    <img src="https://img.icons8.com/color/48/000000/git.png"/>  
-
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>    <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/ios/50/000000/html-5.png"/>
 
 
 <div>
