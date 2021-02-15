@@ -1,4 +1,4 @@
-# Hi there, I'm Siddhant vardhan singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hi there, I'm Siddhant Vardhan Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 I am currently a student of Electronics And Communication Engineering at Shri Mata Vaishno Devi University.
 
 
